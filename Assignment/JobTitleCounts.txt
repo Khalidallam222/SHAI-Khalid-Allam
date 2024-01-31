@@ -1,0 +1,1106 @@
+JobTitle	Count
+Transit Operator	6914
+Special Nurse	4348
+Registered Nurse	3690
+Public Svc Aide-Public Works	2510
+Custodian	2392
+Police Officer 3	2362
+Firefighter	2338
+Recreation Leader	1967
+Patient Care Assistant	1929
+Deputy Sheriff	1900
+Police Officer	1454
+Public Service Trainee	1326
+Police Officer 2	1132
+Attorney (Civil/Criminal)	1117
+Porter	1080
+Sergeant 3	1033
+General Laborer	1009
+EMT/Paramedic/Firefighter	914
+Gardener	885
+Parking Control Officer	847
+Senior Clerk	830
+Library Page	798
+Eligibility Worker	756
+Clerk	755
+Senior Clerk Typist	726
+Licensed Vocational Nurse	699
+Nurse Practitioner	663
+Stationary Engineer	658
+Electrical Transit System Mech	624
+PS Aide to Prof	621
+Senior Administrative Analyst	612
+Protective Services Worker	611
+Medical Evaluations Assistant	609
+Transit Supervisor	609
+Museum Guard	598
+Junior Clerk	584
+Publ Svc Aide-Asst to Prof	574
+Lieutenant, Fire Suppression	571
+School Crossing Guard	555
+Community Police Services Aide	551
+Senior Eligibility Worker	545
+Food Service Worker	542
+Librarian 1	529
+Truck Driver	520
+Pr Administrative Analyst	509
+Assoc Engineer	504
+Public SafetyComm Disp	469
+Engineer	467
+HSA Sr Eligibility Worker	465
+Asst Engr	457
+Stationary Eng, Sewage Plant	446
+Health Worker 3	438
+Senior Account Clerk	437
+Electronic Maintenance Tech	429
+Automotive Mechanic	428
+StdntDsgnTrain1, Arch/Eng/Plng	415
+Health Worker 2	414
+Manager III	412
+Manager II	394
+Physician Specialist	388
+Manager I	386
+Senior Physician Specialist	384
+Pool Lifeguard	374
+Nursing Assistant	374
+Deputy Probation Officer	373
+Psychiatric Social Worker	370
+Administrative Analyst	367
+Painter	356
+Principal Clerk	348
+Clerk Typist	339
+Automotive Service Worker	337
+Manager IV	326
+Senior Personnel Analyst	325
+PS Aide Health Services	317
+Electrician	314
+Counselor, Juvenile Hall	313
+Inspector 3	305
+Lieutenant 3	302
+Medical Social Worker	297
+Secretary 2	294
+Library Assistant	291
+IS Business Analyst-Principal	286
+Eng/Arch/Landscape Arch Sr	284
+Deputy Court Clerk II	279
+Accountant III	274
+IS Engineer-Senior	269
+Transit Car Cleaner	262
+Account Clerk	262
+Nurse Manager	260
+Hospital Eligiblity Worker	254
+Manager V	250
+IS Business Analyst-Senior	249
+Marriage, Family & Child Cnslr	247
+Senior Deputy Sheriff	242
+Senior Social Worker	236
+Library Technical Assistant 1	235
+Management Assistant	234
+Personnel Analyst	233
+Accountant II	226
+Carpenter	222
+Unit Clerk	218
+Automotive Machinist	211
+Captain, Fire Suppression	210
+Program Specialist	207
+Junior Engineer	206
+StdntDsgnTrain3, Arch/Eng/Plng	203
+Pharmacy Technician	202
+Junior Administrative Analyst	198
+Deputy Court Clerk III	198
+Customer Service Agent	198
+Manager VI	197
+Sr Payroll & Personnel Clerk	196
+Plumber	194
+Swimming Instructor	193
+Construction Inspector	192
+Eligibility Worker Supervisor	191
+Recreation Coordinator	187
+StdntDsgn Train2/Arch/Eng/Plng	187
+Executive Secretary 1	183
+Housekeeper/Food Service Clnr	181
+Legal Secretary 1	181
+Sheriff's Cadet	180
+Executive Secretary 2	177
+Health Care Billing Clerk 2	176
+Public Health Nurse	175
+Payroll Clerk	175
+Planner 3	173
+Utility Plumber	171
+Social Worker	171
+Librarian 2	170
+Accountant IV	170
+Building Inspector	168
+BdComm Mbr, Grp5,M$100/Mo	166
+Health Program Coordinator 3	165
+Pharmacist	164
+Employment & Training Spec 3	163
+Custodial Assistant Supervisor	163
+Admission Attendant	162
+Physical Therapist	162
+Child Support Officer II	162
+Health Worker 1	161
+Station Agent, Muni Railway	158
+IS Engineer-Journey	158
+IS Engineer-Principal	156
+Medical Records Clerk	154
+Transit Fare Inspector	154
+Utility Specialist	153
+IS Business Analyst	153
+Bldg & Grounds Patrol Officer	153
+Sheriff's Sergeant	151
+Senior Management Assistant	151
+Camp Assistant	149
+Clinical Psychologist	148
+Sr. Community Devl Spc 1	147
+IS Project Director	145
+Occupational Therapist	143
+Home Health Aide	143
+HSA Social Worker	141
+Testing Technician	139
+IT Operations Support Admn III	137
+Clinical Pharmacist	137
+Senior Legal Process Clerk	136
+Senior Water Services Clerk	135
+Nursing Supervisor	135
+Commissioner No Benefits	134
+General Laborer Supervisor 1	133
+Statnry Eng Water Treat Plant	133
+Maintenance Machinist	132
+Head Atty, Civil & Criminal	131
+Sergeant 2	130
+Fare Collections Receiver	128
+Operating Engineer, Universal	128
+Airport Safety Officer	128
+Medical Records Technician	126
+Legislative Assistant	125
+Junior Management Assistant	122
+Diagnostic Imaging Tech I	122
+BdComm Mbr, Grp2,M=$25/Mtg	121
+Protective Services Supervisor	116
+Senior Collections Officer	116
+Sr. Stationary Eng, Sew Plant	115
+Dep Dir III	114
+Principal Account Clerk	113
+BdComm Mbr, Grp3,M=$50/Mtg	112
+Senior Personnel Clerk	112
+IS Administrator 2	111
+Cement Mason	111
+Storekeeper	110
+Environmental Service Worker	109
+Parts Storekeeper	109
+Human Services Technician	106
+Planner 2	106
+Automotive Body & Fender Wrk	105
+Senior Stationary Engineer	104
+IT Operations Support Admin IV	104
+Court Reporter	103
+Sr Environmental Hlth Insp	103
+Park Section Supervisor	103
+Superior Court Judge	102
+Psychiatric Technician	102
+Sheriff's Lieutenant	102
+Communications Dispatcher 1	101
+Captain 3	101
+Real Property Appraiser	100
+X-Ray Laboratory Aide	100
+Engineering Associate 1	99
+Senior Parking Control Officer	98
+Diagnostic Imaging Tech II	97
+Social Work Specialist	97
+DA Investigative Assist	96
+Library Technical Assistant 2	96
+Cook	94
+Legal Assistant	94
+Dep Dir II	94
+Claims Investigator, CA	92
+Sewer Service Worker	92
+Contract Compliance Officer 1	92
+Sheet Metal Worker	92
+Track Maintenance Worker	91
+Central Processing & Dist Tech	88
+Communications Dispatcher 2	86
+Watershed Worker (Seasonal)	86
+Utility Plumber Supervisor 1	85
+Senior Telephone Operator	85
+Engineer/Architect Principal	85
+Sr Community Dev Spec 2	84
+Airport Communications Disp	84
+Health Worker 4	84
+Engineering Associate 2	83
+Water Service Inspector	81
+Sr Psychiatric Social Worker	81
+Elections Clerk	80
+Security Guard	79
+Deputy Sheriff 1	78
+Planner 3-Environmental Review	78
+Secretary 1	78
+IS Programmer Analyst-Senior	78
+Maintenance Planner	77
+Watershed Keeper	76
+Apprentice Gardener	76
+Manager II, MTA	75
+Estate Investigator	75
+Captain, Emergency Med Svcs	75
+Sign Worker	75
+Insp, Fire Dept	74
+Manager IV, MTA	74
+Worker's Compensation Adjuster	74
+Electrical Inspector	74
+Emp & Training Spec 2	74
+Cashier 2	73
+Dep Dir IV	73
+Nutritionist	72
+Manager VII	72
+Park Patrol Officer	72
+Arborist Technician	72
+Public SafetyComm Supv	72
+Benefits Technician	72
+Assistant Purchaser	72
+Assistant Chief Attorney 1	71
+Manager VIII	70
+Communications Systems Tech	70
+Environmental Assistant	69
+IT Operations Support Admin II	68
+Electrl Trnst Mech, Asst Sprv	68
+Dietitian	67
+Assistant Storekeeper	66
+Street Inspector	66
+Health Program Coordinator 2	66
+Anesthetist	66
+Electrical Line Helper	65
+Clinical Nurse Specialist	65
+Assistant Retirement Analyst	65
+Stage Electrician	65
+Water QualityTech I/II	64
+Environmental Health Inspector	64
+Parking Meter Repairer	64
+Executive Secretary 3	64
+Permit and Citation Clerk	64
+Program Support Analyst	64
+Personnel Clerk	63
+Emp & Training Spec 4	63
+Battalion Chief, Fire Suppress	63
+Training Officer	63
+Environmental Spec	62
+Planner 4	62
+Cable Splicer	62
+Senior Food Service Worker	62
+Public Relations Officer	62
+Epidemiologist 2	61
+Physician Assistant	61
+Sr. Environmental Spec	61
+Utility Analyst	61
+Prnpl Admin Analyst II	60
+Snr Permit and Citation Clerk	60
+Housing Inspector	60
+Victim/Witness Investigator 1	60
+ASR Senior Office Specialist	60
+Counselor, Log Cabin Ranch	60
+Traffic Signal Electrician	60
+Accountant Intern	59
+Institution Utility Worker	59
+Social Work Supervisor	59
+Health Care Analyst	58
+Asphalt Worker	58
+Legal Process Clerk	57
+IS Administrator 3	57
+Nurses Staffing Assistant	57
+Hospital Eligibility Worker	56
+Cashier 1	56
+Media Production Tech	56
+Community Development Spec	55
+Project Manager 1	55
+Transit Power Line Worker	55
+Recreation Specialist	55
+IS Prg Analyst-Principal	54
+Counselor, Juvenile Hall SFERS	54
+Project Manager 2	54
+Architectural Associate 2	54
+Assistant Const Inspector	54
+Nurse Midwife	54
+Special Examiner	54
+Personal Property Auditor	52
+Dental Aide	52
+Bldgs & Grounds Maint Supt	52
+Invstgtor Ofc Citizen Cmplnts	52
+Patient Svcs Finance Tech	52
+Pr Payroll & Personnel Clerk	52
+Sr Statnry Eng, Wtr Treat Plnt	51
+Supervising Physician Spec	51
+Deputy Probation Officer SFERS	51
+Librarian 3	51
+Electr Instrmntn Tech Wtr Poll	51
+Chf Stationary Eng, Sew Plant	51
+Plumbing Inspector	50
+Architectural Assistant 2	50
+Dep Dir V	50
+Swimming Instr/Pool Lifeguard	50
+Employment & Training Spec 1	50
+Airport Electrician	50
+Lighting Fixture Maint Worker	50
+Electr Maint Tech Asst Sprv	49
+Commercial Div Asst Sprv	49
+Car and Auto Painter	49
+Museum Preparator	49
+Window Cleaner	48
+Manager VI, MTA	48
+Surgical Procedures Technician	48
+Train Controller	48
+Rehabilitation Svcs Coord	47
+Health Educator	47
+Contract Compliance Officer 2	47
+Patient Accounts Clerk	47
+Animal Care Attendant	46
+Criminalist II	46
+Steamfitter	46
+Chemist I/II	45
+Dentist	45
+Engineering Assistant	45
+Chief Clerk	45
+Manager V, MTA	45
+District Attry's Investigator	45
+Benefits Analyst	44
+Environmental Hlth Tech 1	44
+Sr Personal Property Auditor	44
+Senior Const Inspector	44
+Public Service Aide-Admin	43
+Senior Real Property Appraiser	43
+Public Health Team Leader	43
+Planner 1	43
+Chief Stationary Engineer	43
+Fingerprint Technician 2	43
+Biologist I/II	42
+Victim/Witness Investigator 3	42
+Pile Worker	42
+Sr Fare Collections Receiver	41
+Planner 4-Environmental Review	41
+Speech Pathologist	41
+Electrical Line Worker	41
+Public Information Officer	41
+ASR-Office Assistant	41
+Traffic Survey Technician	40
+Landscape Architect Assoc 1	40
+Aprntc Statnry Eng, Sew Plant	40
+Court Supervisor II	40
+Auditor II	40
+Performance Analyst II	40
+Architect	40
+Sr Counselor, Juvenile Hall	39
+Painter Supervisor 1	39
+Research Asst, Superior Court	39
+Survey Associate	39
+Industrial Hygienist	39
+Utility Plumber Apprentice	39
+Sprv Adult Probation Ofc	38
+Transit Planner III	38
+General Utility Mechanic	38
+IS Programmer Analyst	38
+Airport Operations Supervisor	38
+Safety Analyst	37
+Sergeant, (Police Department)	37
+Legal Secretary 2	37
+Airport Economic Planner	37
+Senior Purchaser	37
+Welder	36
+Animal Control Officer	36
+Architectural Associate 1	36
+IS Manager	36
+Automotive Mechanic Asst Sprv	36
+Survey Assistant II	36
+Therapy Aide	36
+Airport Property Specialist 1	36
+Shelter Service Rep	36
+Survey Assistant I	35
+HSA Emp & Training Spec II	35
+Asphalt Finisher	35
+Member, Board of Supervisors	35
+Electrician Supervisor 1	35
+Regulatory Specialist	35
+Architectural Assistant 1	35
+Volunteer/Outreach Coord	34
+Institutional Police Officer	34
+Water Operations Analyst	34
+Trans and Dist Line Worker	34
+Meter Reader	34
+Assessor-Recorder Office Spec	33
+Health Care Billing Clerk 1	33
+Health Program Coordinator 1	33
+Dept Head I	33
+Court Interpreter	33
+Citizens Complaint Officer	33
+Street Environ Svcs Oprs Supv	33
+Public Defender's Investigator	33
+Customer Service Agent Trainee	33
+Arts Program Assistant	33
+Supv Chemist	33
+Project Manager 3	33
+Employee Relations Representat	32
+Porter Supervisor 1	32
+Battlion Chief, Fire Suppressi	32
+Custodial Supervisor	32
+Principal Water Services Clerk	32
+Water Quality Technician	32
+Manager VIII, MTA	32
+Locksmith	31
+Senior Benefits Analyst	31
+EEO Senior Specialist	31
+Transit Planner 4	31
+Purchaser	31
+Transit Manager 2	31
+Child Support Officer III	31
+IT Operations Support Admin V	31
+Deputy Court Clerk I	31
+Fire Safety Inspector 2	31
+Asst Materials Coordinator	31
+Admin Hearing Examiner	31
+Sr Airport Communications Disp	30
+Trans Safety Specialist	30
+Sr Marriage, Fam & Cld Cnslr	30
+Senior Industrial Hygienist	30
+Employment & Training Spec 5	29
+Recreation Supervisor	29
+Personnel Technician	29
+Carpenter Supervisor 1	29
+Laboratory Technician II	29
+Ornamental Iron Worker	28
+Health Program Planner	28
+Museum Sec Supv	28
+Administrative Engineer	28
+Maintenance Controller	28
+Manager III, MTA	28
+Wire Rope Cable Maint Mechanic	28
+Senior Health Program Planner	28
+Senior Parts Storekeeper	28
+Dist Atty Investigator (SFERS)	28
+Investigator, Tax Collector	28
+Lieut,Fire Prev	28
+Automotive Machinist Sprv 1	28
+Assessment Clerk	27
+Aquatics Facility Asst Supv	27
+Plumber Supervisor 1	27
+Sewage Treatment Plant Supt	27
+Diagnostic Imaging Tech III	27
+Auditor III	27
+Apprentice Stationary Engineer	27
+Crafts Instructor	26
+Senior Building Inspector	26
+City Planning Intern	26
+Sheriff's Property Keeper	26
+Transit Car Cleaner Asst Sprv	26
+Glazier	26
+IS Business Analyst-Assistant	26
+Food Service Supervisor	26
+Bldg & Grounds Maint Sprv	25
+Hospital Elig Wrk Supervisor	25
+Med Examiner's Investigator II	25
+Curator 2	25
+Senior Water Service Inspector	25
+Fingerprint Technician 1	25
+Med Examiner's Investigator I	25
+Sewer Maintenance Worker	25
+Asphalt Finisher Supervisor 1	25
+Power Generation Technician 2	25
+Senior Storekeeper	25
+Pub Safety Communication Coord	24
+Coord of Citizen Involvement	24
+IT Operations Support Admin I	24
+Mayoral Staff XV	24
+Water Quality Tech III	24
+Assistant Health Educator	24
+Transit Planner 2	24
+Epidemiologist 1	24
+Comm Pol Svcs Aide Supervisor	24
+Principal Environ Specialist	24
+Disease Control Investigator	24
+Diagnostic Imaging Tech IV	24
+Telephone Operator	24
+Sheriff's Captain	23
+Biologist	23
+Track Maint Wrk Sprv 1	23
+Transcriber Typist	23
+Graphic Artist	23
+Integrated Pest Mgmt Specialst	23
+Utility Plumber Supervisor 2	23
+Perf Analyst III Project Mgr	23
+IS Administrator-Supervisor	23
+Electric Motor Repairer	23
+Materials Coordinator	23
+Dept Head III	23
+Roofer	23
+Brd Comm Mbr, M=$200/Mtg	23
+Aquatics Facility Supervisor	23
+Arborist Technician Supervisor	23
+Transit Manager 1	22
+Customer Service Agent Supv	22
+Dept Head II	22
+Transportation Planner III	22
+Switch Repairer	22
+Senior Comm Systems Technican	22
+Wastewater Control Inspector	22
+Pr Real Property Appraiser	22
+Sr Public Defenders Invstgtor	22
+Respiratory Care Practitioner	22
+Community Development Asst	22
+Safety Officer	22
+Transit Fare Insp. Sup/Invst.	22
+Sprv Prob Ofc, Juv Court	22
+Sr Power Generation Tech	22
+Chemist	21
+Property Manager, Port	21
+IS Administrator 1	21
+Supervising Pharmacist	21
+Investigator,Taxi & AccessSvcs	21
+Landscape Architect Assoc 2	21
+Automotive Mechanic Sprv 1	21
+Maintenance Scheduler	21
+Auto Machinist Asst Sprv	21
+Prpl Permit and Citation Clerk	21
+Dep Dir I	20
+Claims Investigator	20
+Sr District Atty Investigator	20
+IS Engineer-Assistant	20
+Deputy Chief 3	20
+Victim/Witness Investigator 2	20
+Pipe Welder	20
+Curator 3	20
+Incident Support Specialist	20
+Inspector, Weights & Measures	20
+Public Relations Assistant	19
+Asst Chf Victim/Wit Invstgtor	19
+Janitorial Svcs Asst Sprv	19
+Automotive Trnst Shop Sprv 1	19
+Parking Hearing Examiner	19
+Fire Alarm Dispatcher	19
+Chief Surveyor	19
+Transit Power Line Sprv1	19
+Transit Traffic Checker	19
+Emergency Med Svcs Agency Spec	19
+Court Staff Attorney II	19
+Criminal Justice Specialist 2	18
+Microbiologist	18
+Assistant Chief Attorney 2	18
+Manager VII, MTA	18
+Auditor I	18
+Asst Electronic Main Tech	18
+Commander 3	18
+Dept Head V	18
+Structural Engineer	18
+Water Meter Repairer	18
+Asst Forensic Toxicologist 1	18
+Asst Chf of Dept (Fire Dept)	18
+Events & Facilities Specialist	18
+Offset Machine Operator	18
+Medical Records Tech Sprv	18
+EEO Programs Specialist	18
+Mayoral Staff XVI	18
+Materials Testing Technician	18
+Senior Power House Operator	18
+Benefits Supervisor	18
+Asst General Services Manager	17
+Child Care Specialist	17
+Transportation Planner II	17
+Chemist III	17
+Biologist III	17
+Urban Forestry Inspector	17
+Mayoral Staff IV	17
+Mayoral Staff IX	17
+Assistant Inspector 3	17
+Dept Head IV	17
+Claims Adjuster	17
+Elections Worker	17
+Planner 5	17
+Assistant Cook	17
+Patient Accounts Supervisor	17
+Deputy Dir I, MTA	17
+Chef	16
+Deputy Sheriff (SFERS)	16
+Counselor,Log Cabin Rnch SFERS	16
+Legislative Asst City Atty Ofc	16
+Sr. Microphoto/Imaging Tech.	16
+Dietetic Technician	16
+Transportation Planner IV	16
+Microphoto/Imaging Technician	16
+Pharmacy Helper	16
+Welfare Fraud Investigator	16
+Supv Biologist	16
+Court Manager	16
+Program Specialist Supervisor	16
+Transit Operations Specialist	16
+Chf Statnry Eng,WtrTreat Plnt	16
+Mayoral Staff XIV	16
+Heavy Equipment Ops Sprv	16
+Project Manager 4	15
+Hodcarrier	15
+Media/Security Sys Spec	15
+Mayoral Staff XVII	15
+Curator 4	15
+Security Analyst	15
+Power House Operator	15
+Mayoral Staff XI	15
+Sewer Repair Supervisor	15
+Special Assistant 10	15
+Rehabilitation Counselor	15
+Counselor, Family Court Svc	15
+SrClaimsInvstgtor,Cty Atty Ofc	15
+Senior Medical Social Worker	15
+Pr Personal Property Auditor	15
+Pilot of Fire Boats	15
+Pr Environmental Hlth Insp	15
+Senior Physical Therapist	15
+Asst Chf Dist Atty's Invstgtor	15
+Morgue Attendant	15
+Senior Housing Inspector	15
+Mental Hlth Treatment Spec	15
+Senior Occupational Therapist	15
+Rep, Human Rights Comm	15
+IS Operator-Senior	15
+Senior Fiscal Technician	15
+Illustrator and Art Designer	14
+Capt,Fire Prev or Fire Invsgtn	14
+Supervising Purchaser	14
+Asst Clk, Board of Supervisors	14
+Bricklayer	14
+Soft Floor Coverer	14
+Patient Accounts Asst Sprv	14
+Deputy Dir II, MTA	14
+Chief Atty1 (Civil & Criminal)	14
+Nursery Specialist	14
+Transit Information Clerk	14
+Physical Therapist Assistant	14
+Emergency Services Coord III	13
+IS Operator-Journey	13
+Worker's Comp Supervisor 1	13
+Med Staff Svcs Dept Spc	13
+Marina Assistant Manager	13
+Medical Transcriber Typist	13
+Maintenance Machinist Sprv 1	13
+Criminalist III	13
+Mayoral Staff XIII	13
+Fingerprint Technician 3	13
+Senior Estate Investigator	13
+Sheet Metal Supervisor 1	12
+Asst Med Examiner	12
+Fire Protection Engineer	12
+Senior Microbiologist	12
+Senior Unit Clerk	12
+Materials Testing Aide	12
+Power Generation Supervisor	12
+Fiscal Technician	12
+Marine Engineer of Fire Boats	12
+Coord, Human Rights Comm	12
+Chief Building Inspector	12
+Cement Finisher Supervisor 1	12
+Senior Street Inspector	12
+Court Invstgtor, Superior Crt	12
+Sprv Wastewater Cont Inspector	12
+Sprv Electronic Main Tech	12
+Research Assistant	12
+IS Trainer-Assistant	12
+Radiologic Tech Sprv	12
+Animal Keeper	12
+Water Conservation Admin	12
+Senior Laundry Worker	12
+Stable Attendant	12
+Dental Hygienist	12
+Div Director, Adult Probation	12
+Porter Assistant Supervisor	11
+AprntcStatnry Eng,WtrTreatPlnt	11
+Sprv, Traffic & Street Signs	11
+Fire Rescue Paramedic	11
+Sprv Clincal Psychologist	11
+Stores & Equip Asst Sprv	11
+Photographer	11
+Tile Setter	11
+Planner Technician	11
+Associate Museum Registrar	11
+Architectural Administrator	11
+Nursing Supervisor Psychiatric	11
+Administrative Services Mgr	11
+Principal Personnel Analyst	11
+Communication Line Sprv1	10
+Curator 1	10
+Inventory Clerk	10
+Court Alternative Specialist 1	10
+Assistant Counselor	10
+Chief Deputy Sheriff	10
+Assistant Deputy Chief 2	10
+Senior Museum Registrar	10
+Parking Meter Repairer Sprv 1	10
+Auto Svc Wrk Asst Sprv	10
+Landscape Architect	10
+Electrical Transit Shop Sprv 1	10
+Investigator/Transit Fare Supv	10
+Chf Payroll & Personnel Clerk	10
+Wharfinger 2	10
+Personnel Trainee	10
+Medical Social Work Supervisor	10
+Transmission Line Supervisor 1	9
+Sr Transit Information Clerk	9
+Power Generation Technician 1	9
+Cfdntal Chf Atty 2,(Cvl&Crmnl)	9
+Chief Water Service Inspector	9
+Water & Power Maint Sprv 1	9
+Food Service Mgr Administrator	9
+Parking Enforcement Admin	9
+Maritime Marketing Repr	9
+Airport Emerg Planning Coord	9
+Electrical Trnst Mech Sprv 1	9
+Senior Plumbing Inspector	9
+Heavy Equip Ops Asst Sprv	9
+Book Repairer	9
+Fusion Welder	9
+Collections Officer	9
+Senior Property Manager, Port	9
+Criminalist I	9
+Traf Signal Electrician Sup I	9
+Pattern Maker	9
+IS Trainer-Journey	9
+Street Repair Supervisor 2	9
+Accountant I	8
+Airport Noise Abatement Spec	8
+Building Plans Engineer	8
+Special Assistant 3	8
+Mayoral Staff II	8
+Head Park Patrol Officer	8
+Counselor 2	8
+Watershed Keeper Supervisor	8
+Senior Electrical Inpsector	8
+Invstgtor,Fire Dept	8
+Probate Examiner	8
+Senior Health Educator	8
+Document Examiner Technician	8
+Child Support Officer I	8
+Sr Court Staff Attorney	7
+Senior Real Property Officer	7
+Principal Mgmt Analyst	7
+Forester	7
+Emergency Services Coord II	7
+Public Relations Mgr	7
+Lieutenant 2	7
+Barber	7
+IS Program Analyst-Assistant	7
+Animal Health Technician	7
+Piledriver Supervisor 1	7
+IS Technical-Journey	7
+Sr Investigator, OCC	7
+Maintenance Manager	7
+Locksmith Supervisor 1	7
+Emergency Services Coord IV	7
+Supv Bldg Grounds Patrol Ofcr	7
+Ct Comp Sys Engineer II	7
+Senior Emp Relations Repres	7
+Dep Chf of Dept (Fire Dept)	7
+Personnel/Payroll Repres	7
+Inspector 2	7
+Museum Registrar	6
+Mech Shop & Equip Supt	6
+Rep, Comm Status of Women	6
+Airports Communications Sprv	6
+Court Training Specialist	6
+Ct Comp App Programmer	6
+Executive Contract Employee	6
+Pr Fare Collections Receiver	6
+Beautician	6
+Med Examiner's InvestigatorIII	6
+Airport Electrician Supervisor	6
+Dir of Act, Therapy & Vol Svcs	6
+Special Assistant 22	6
+Ex Asst to Admin, SFGH	6
+Institutional Police Sergeant	6
+Sctry, Bldg Inspection Comm	6
+Patient Accounts Manager	6
+Manager,Employee Relations Div	6
+Court Paralegal	6
+Shelter Veterinarian	6
+Heating/Ventilating Inspector	6
+Agricultural Inspector	6
+Mayoral Staff V	6
+Watershed Forester	6
+Lab Svcs Mgr	6
+Asst.Dep.Dir., Port	6
+Special Assistant 19	6
+Principal Parts Storekeeper	6
+Elevator and Crane Technician	6
+Court Computer Sys Manager	6
+Electrician Supervisor 2	6
+Collection Supervisor	6
+Main Machinist Asst Sprv	6
+Admin Analyst 3	6
+Communications Line Wrk Sprv 2	6
+Forensic Laboratory Technician	6
+Media Production Supv	6
+Line Inspector	6
+Forensic Autopsy Technician	6
+Mail & Reproduction Svc Sprv	6
+Sr Cent Proc & Dist Tech	6
+Electrical Trnst Shop Sprv 1	6
+Street Inspection Supervisor	6
+Med Staff Svcs Dept Anl	6
+Assistant Inspector 2	5
+Senior Museum Preparator	5
+Supt Water Treatment Fac	5
+Piledriver Engine Operator	5
+Principal Real Property Ofc	5
+Steamfitter Supervisor I	5
+Court Commissioner	5
+Sr Materials & Supplies Sprv	5
+Sr Human Resources Analyst	5
+Chief Preparator	5
+Inspector, (Police Department)	5
+Janitorial Services Supervisor	5
+Industrial Injury Investigator	5
+Chief Dietitian	5
+Fiscal Services Supervisor	5
+Govrnmt/Publ Affairs Mgr	5
+Water Const&Main Supt	5
+Mayoral Staff VII	4
+Chief Deputy Adlt Probation Of	4
+Sprv Adult Prob Ofc (SFERS)	4
+Assistant Law Librarian	4
+Court Administrator	4
+Youth Comm Advisor	4
+Disability Access Coordinator	4
+Chf District Atty Investigator	4
+Senior Claims Investigator	4
+Court Administrative Secretary	4
+Research Psychologist	4
+Ct Comp App Analyst	4
+Audiologist	4
+Assistant Sheriff	4
+Real Property Manager	4
+Dir, Log Cabin Ranch (SFERS)	4
+Electrician Supervisor II	4
+Payroll Supervisor	4
+Mayoral Staff X	4
+Undersheriff	4
+IS Technician-Senior	4
+Emergency Planning Coordinator	4
+Carpenter Supervisor 2	4
+Transit Power Cable Splicer	4
+Media Programming Spec	4
+Marina Assistant	4
+Chf Prob Ofc, Juv Court	4
+Building Services Technician	4
+Apprentice Cement Mason I	4
+City Attorney	3
+Duty Officer	3
+Emergency Medical Svcs Chief	3
+Human Resources Director	3
+Assistant Power House Operator	3
+Emergency Services Assistant	3
+District Attorney	3
+Port Director	3
+Performance Analyst I	3
+Laboratory Technician I	3
+Sr Light Rail Veh Equip Eng	3
+Mayor	3
+Braillist	3
+Controller	3
+Adm, SFGH Medical Center	3
+Gen Mgr, Public Trnsp Dept	3
+PrDAInvest,SpecUnit (SFERS)	3
+Sen Hospital Eligibility Wrkr	3
+Chief, Fire Department	3
+Public Defender	3
+Dir Emp Relations Div	3
+Wire Rope Cable Maint Sprv	3
+Assessor	3
+Special Assistant 14	3
+Traffic Signal Operator	3
+Ct Comp Facilities Coord	3
+Victim & Witness Technician	3
+Law Librarian	3
+Painter Supervisor 2	3
+Special Assistant 21	3
+Sctry, Juv Probation Comm	3
+Treasurer	3
+Principal Recreation Sprv	3
+Statistician	3
+Signal and Systems Engineer	3
+Trnst Power Line Wrk Sprv 2	3
+Animal Control Supervisor	3
+Materials/Supplies Supervisor	3
+Board Scty, MTA	3
+Asst Director, Juvenile Hall	3
+Sctry, Human Svcs. Commission	3
+Attorney, Tax Collector	3
+Wharfinger 1	3
+Senior Transcriber Typist	3
+Sheet Metal Wrk Supervisor 2	3
+Orthopedic Technician 1	3
+Junior Clerk Typist	3
+Sheriff (SFERS)	3
+Chief Adult Probation Officer	3
+Chief Nursery Specialist	3
+Orthopedic Technician 2	3
+Crane Mechanic Supervisor	3
+Graphics Supervisor	3
+Arborist Technician Supv II	3
+Bd/Comm Secretary 3	3
+Area Sprv Parks, Squares & Fac	3
+Electric Motor Repair Sprv 1	3
+Asst Superintendent Rec	3
+Senior Transit Traffic Checker	3
+Window Cleaner Supervisor	3
+Rent Board Supervisor	3
+Ex Dir, SE Com Fac Comm	3
+Director, Probate	3
+Senior Plan Checker	3
+Senior Morgue Attendant	3
+Acupuncturist	3
+Employment & Training Spec 6	3
+Media/Security Syst Supv	3
+Depty Sealer of Weights & Meas	3
+IS Operator-Analyst	3
+Field Svcs Asst Supv	3
+Real Estate Devt. Mgr, SFMTA	3
+Specialist in Aging 2	3
+Senior Book Repairer	3
+Senior Pharmacy Helper	3
+Sup Welfare Fraud Investigator	3
+Cfdntal Sctry to City Atty	3
+Employee Assistance Counselor	3
+Soft Floor Coverer Supvr I	3
+Market Research Spec, Port	3
+Asst Dir, Log Cabin Rnch	3
+Secretary, Library Commission	3
+Ex Asst to the Controller	3
+Sr Employee Asst Counselor	3
+Assistant Industrial Hygienist	3
+Librarian 2 - Asian Arts	3
+Mgr, Unified Family Court Svcs	3
+Feasibility Analyst, Port	3
+Court Clerk	3
+Pr Investigator, Tax Collector	3
+Chief of Police	3
+Supervising Parts Storekeeper	3
+Secretary, Comm on the Environ	3
+Assoc Musm Cnsrvt, AAM	3
+Conservatorship/Case Mgt Sprv	3
+Secretary, Health Commission	3
+Asphalt Plant Supervisor 1	3
+Ornamental Iron Wrk Sprv 1	3
+Court Asst-Sr, Superior Court	3
+Municipal Stadium Groundskpr	3
+Senior Psychiatric Orderly	3
+IS Trainer-Senior	3
+Administrative Analyst II	3
+Shelter Officer Supervisor	3
+Plumber Supervisor 2	3
+Claims Process Clerk	3
+Director, Juvenile Hall	3
+Ex Asst to Ex Dir, Retirement	3
+Auto Body & Fender Wrk Sprv 1	3
+Chief Electrical Inspector	3
+Shelter Office Asst Supv	3
+Traf Signal Electrician Sup II	3
+Telecommunications Tech Supv	3
+Roofer Supervisor 1	3
+Chief Telephone Operator	3
+Sr Medical Transcriber Typist	3
+Media Training Specialist	3
+Principal Museum Preparator	3
+Chief Plumbing Inspector	3
+Senior Food Service Supervisor	3
+Farmer	3
+Director, Probation Services	3
+Animal Care Asst Supv	3
+Asst Dir of Clinical Svcs 1	3
+Metalsmith	3
+Chief Dep Adlt Prob Of (SFERS)	3
+Electroencephalograph Tech 1	3
+Chief Fire Alarm Dispatcher	3
+Shade and Drapery Worker	3
+Chf Victim/Witness Invstgtor	3
+Baker	3
+Chief Housing Inspector	3
+Training Technician	2
+Industrial Engineer	2
+Mayoral Staff XII	2
+Dep Dir for Investments, Ret	2
+Glazier Supervisor 1	2
+Administrator, DPH	2
+Sup Ct Admin Secretary	2
+Forensic Toxicologist	2
+City Shops Asst Superintendent	2
+Director, Fiscal Services	2
+Court Reporter Coordinator	2
+Operating Room Nurse	2
+IS Technician-Supervisor	2
+Cement Finisher Supervisor 2	2
+Head Photographer	2
+Traffic Sign Manager	2
+Manager, Dept Public Health	2
+Airport Communications Officer	2
+Special Assistant 16	2
+Emergency Services Coord I	2
+Water Meter Shop Supervisor 1	2
+Mgr Museum Security Services	2
+Senior Offset Machine Operator	2
+Media Production Specialist	2
+Assistant Director, Probate	2
+Legislative Clerk	2
+Court Interpreter Supervisor	2
+Vet Laboratory Technologist	2
+Training Coordinator	2
+Sr General Utility Mechanic	2
+Special Assistant 11	2
+Director, Human Resources	2
+Communications Director	2
+Audiometrist	2
+Supply Room Attendant	2
+Legislation Clerk	2
+Special Assistant 15	2
+Senior Assessment Clerk	2
+Sr Opers Mgr	2
+Director, Info Tech Group	2
+Assistant Inspector	2
+Court Asst., Superior Court	2
+Power Plant Supervisor 1	2
+Crime Lab Mgr	2
+Environmental Hlth Tech 2	2
+Asst Chf, Bur Clm Invest&Admin	2
+Administrative Analyst I	2
+Instructional Designer	2
+Court Executive Officer	2
+Mental Health Hearing Officer	2
+Airport Mechanical Maint Sprv	2
+Transit Paint Shop Sprv1	2
+Animal Care Supervisor	2
+Track Maint Supt, Muni Railway	2
+Sr Cnselor, Juv Hall (SFERS)	1
+Marina Associate Manager	1
+Cfdntal Sctry to Distric Atty	1
+Administrative Hearing Sup	1
+Sr Sprv Prob Ofc, Juv Prob	1
+ACPO,JuvP, Juv Prob (SFERS)	1
+Auto Body&Fender Wrk Asst Sprv	1
+HH Mechanical Shop Sprv	1
+Asst Dir Clinical Svcs 2	1
+Light Rail Vehicle Equip Eng	1
+Undersheriff (SFERS)	1
+Head Airport Electrician	1
+Senior Maintenance Controller	1
+Mobile Equipment Supervisor	1
+Supervising Mediator, UFCS	1
+Police Services Aide	1
+Legislative Calendar Clerk	1
+Asst Chf Prob Ofc, Juv Prob	1
+Pr DistAtty Invstgtor,SpecUnit	1
+Court Supervisor I	1
+Sheriff	1
+Special Assistant 13	1
+Senior Data Entry Operator	1
+Special Assistant 18	1
+Pianist	1
+Musm Exhibit Packer & Repairer	1
+Special Assistant 8	1
+Public Service Aide-Technical	1
+Managing Attorney	1
+Civil Case Settlmnt Specialist	1
+Commissioner 16.700c, No Pay	1
+Chief Investment Officer	1
+Chief Forensic Toxicologist	1
+Lieutenant (Police Department)	1
+Forensic Toxicologist Supervis	1

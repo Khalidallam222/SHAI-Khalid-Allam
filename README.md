@@ -13,3 +13,5 @@ seaporn documentation :https://seaborn.pydata.org/
 video tutorial: https://www.youtube.com/watch?v=6GUZXDef2U0&ab_channel=DerekBanas
 
 
+data cleaning video:https://youtu.be/bDhvCp3_lYw?si=8OEfe9wcGU_gMNXz
+
