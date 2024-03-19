@@ -33,5 +33,9 @@ data cleaning
     > exercises must be submitted through google classroom
 
 
-
+### session 2
+#### [task2](https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1iHuK1n-AKkMtf20GByEx3Jk3QbaOVFAJ%3Fusp%3Dsharing%26fbclid%3DIwAR0vS3fVGwMOUvcsMorSs9WtM1hfaqlvZugnQE7ppS9jWkxpmvcHkx8axr0&h=AT0dVK8V-zKXoZCfyx9X9yQuHHqnXzaS7UaBJNzTOKqrsHyhSgCiDjaGm56Dgcg18-EOOCKhNohkjfn2CCg9GrXa775Gfx7QnITnb3BXwOZytXsA7USSDJe6AHlI&__tn__=-UK-R&c[0]=AT2dmwxXOUmMF8sehwli2bZIa3fkKYRnYM2kJ0MTM6rcjB9KyrSCcZ6wlKjifmizbUmKJAFpWyJF1ib2OVpxCXYb1zYFonsxEPews4cDgopUFdRgqE_WDrblpgOSk_Q9xNcmHu_gmiZI1kOOg8YDQJVaOE017IdxwQsyde-ky87ctHCiXyxx_FaHZjVhJ3PL9ppSxrQA_ifzaRtDnrcoXko)
+    the task is two parts:
+    - matplotlib
+    - seaborn
 
