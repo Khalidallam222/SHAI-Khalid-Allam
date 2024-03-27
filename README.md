@@ -39,3 +39,12 @@ data cleaning
     - matplotlib
     - seaborn
 
+### session 3
+#### task 3
+[practice video 1](https://youtu.be/Z2t7l8b1uWU?si=dOiyvKNo3Aw-SU4d)
+
+[practice video 2](https://youtu.be/mYpOSfqgTvY?si=4SzzvKWcNoGqRVvb)
+
+[playlist for powerbi and ML](https://youtube.com/playlist?list=PLi5spBcf0UMXj6bD3S05yixR-2N_UH3_X&si=tduFx2RxSLi1E4mG)
+
+    power bi dashboard
