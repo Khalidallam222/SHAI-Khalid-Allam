@@ -48,3 +48,10 @@ data cleaning
 [playlist for powerbi and ML](https://youtube.com/playlist?list=PLi5spBcf0UMXj6bD3S05yixR-2N_UH3_X&si=tduFx2RxSLi1E4mG)
 
     power bi dashboard
+### session 4
+#### task 4
+[What is Machine Learning?](https://youtu.be/HcqpanDadyQ?si=YNh7XlfSgxd_VtoB)
+
+    1. Summarize chapter 1 from the book Hands on ML
+    2. Write a brief passage about ML meaning in your own words
+    3. propose an idea you can apply using ML
