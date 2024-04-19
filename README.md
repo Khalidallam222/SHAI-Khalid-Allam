@@ -55,3 +55,11 @@ data cleaning
     1. Summarize chapter 1 from the book Hands on ML
     2. Write a brief passage about ML meaning in your own words
     3. propose an idea you can apply using ML
+
+### session 5
+#### [task 5](https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1BzyutyS6OBsfU9FDyl-e6_nwY3KYSOrD%3Fusp%3Dsharing%26fbclid%3DIwZXh0bgNhZW0CMTAAAR0zeY7Lb8bXukiaUHBGpIUp9tRsEU5zHr0XEe1-3F-p99ZDj7qgHP-JJE8_aem_ATJT5HrCM6CcQVlnn-piZM5dV6luZ9xY_LNxXI3JoXlXthoj-nIyEPxSDtlubPGNmbMI7_RVG-boSfASpuaZBfwy&h=AT0Gn2ddoRwiEPuAlr8-_rDMosMKxNp7MZ-2m62o62hrcnlmtNbE4W0F82da-pBt1UahkHZP8fwpppmzRnAMit4uZLDvRc4ozjlvYi4Eqc9zjmoXrM82zR1njPyR&__tn__=-UK-R&c[0]=AT1wCRYDSvDd_37NYRFnGOXwqgjJcIO9PwDfpN9h9cDc8TjSRyEYRxVb1rKOpLcdlGf8I4wXnm07pFhfnPBJ-sPeAICD7QIja1DetDehb5UDfAIhQQ-2JPqSNiUip0XR-dhNy7enXY1IJ2QDJaXdVuUSw4DnPFlF65kB1u8pqAYBU0BiHh7eaa8CoMuEdz8YwuuUbaHUFOtOAeYocDEaUaaUmWV8rLRMjPtA4cYD9O9trftt) 
+[boxblot tuturial](https://youtu.be/INSIyaZUXIY?si=3CZIyAUxYmwpY7ab)
+
+    1. prepare a report on ML life cycle
+    2. complete exercises
+    3. read chapter 2 page 96 to page 176
