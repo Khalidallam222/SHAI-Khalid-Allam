@@ -63,3 +63,9 @@ data cleaning
     1. prepare a report on ML life cycle
     2. complete exercises
     3. read chapter 2 page 96 to page 176
+
+### session 6
+#### [task 6](https://drive.google.com/drive/folders/1q4_a0O7Q3yH-S9rvhxeSxKJdXDAmvG6k?fbclid=IwZXh0bgNhZW0CMTAAAR3kEOWcgB8x67zy4rL6W8cEC0VTVfY91cdIplmPtVUsQoidogttKOPH4hA_aem_AWpO5aZvCmzHwVdoA1i7mkobhoCgkeQEsUEFHcpWcNJNHnQTsRU6uYeCbZInpG8Mii9C9GlJGTPKljOtNJiRDjcM)
+    1. prepare a report on ML life cycle
+    2. complete exercises
+    3. read chapter 2 page 176 to page 192
