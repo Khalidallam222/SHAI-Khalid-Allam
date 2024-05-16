@@ -69,3 +69,9 @@ data cleaning
     1. prepare a report on ML life cycle
     2. complete exercises
     3. read chapter 2 page 176 to page 192
+
+### session 7
+#### task 7
+    diamonds regression project:
+    1. build a regression model
+    2. well documented analysis +visualization
